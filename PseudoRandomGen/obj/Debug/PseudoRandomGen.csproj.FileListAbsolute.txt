@@ -1,0 +1,101 @@
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\Asus\Desktop\C#\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\student\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GenerateCustomForm.resources
+C:\Users\Давид v 2.0\Desktop\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.MainMenu.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GenerateCustomForm.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.MainMenu.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.Cache
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\N0STR0M0\Downloads\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GenerateCustomForm.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.MainMenu.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.cache
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CoreCompileInputs.cache
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CopyComplete
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGen\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.GenerateCustomForm.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.MainMenu.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.cache
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CoreCompileInputs.cache
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CopyComplete
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Source\Repos\VSCodeRep\PseudoRandomGenLast\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe.config
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\bin\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\bin\Debug\PseudoRandomGen.pdb
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\bin\Debug\MathNet.Numerics.dll
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\bin\Debug\MathNet.Numerics.xml
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.csprojResolveAssemblyReference.cache
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.ChartForm.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.GenerateCustomForm.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.GeneratorForm.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.MainMenu.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.Properties.Resources.resources
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.GenerateResource.cache
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CoreCompileInputs.cache
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.csproj.CopyComplete
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.exe
+C:\Users\N0STR0M0\Downloads\PseudoRandomGenLast-master(1)\PseudoRandomGenLast-master\PseudoRandomGen\obj\Debug\PseudoRandomGen.pdb
