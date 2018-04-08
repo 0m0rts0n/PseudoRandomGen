@@ -17,6 +17,11 @@ namespace PseudoRandomGen
             get { return InfoTB.Text; }
             set { InfoTB.Text = value; }
         }
+        public ListBox LBInfo
+        {
+            get { return InfoLB; }
+            set { InfoLB.Items.AddRange(value.Items); }
+        }
         public ChartForm()
         {
             InitializeComponent();

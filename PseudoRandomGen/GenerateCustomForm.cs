@@ -133,6 +133,7 @@ namespace PseudoRandomGen
         {
             ChartForm cf = new ChartForm();
             cf.TBInfo = ExpDistrTB.Text;
+            cf.LBInfo = ExpDistrLB;
             cf.TempChart.Series[0] = ExpDistrChart.Series[0];
             cf.Text = cf.TempChart.Series[0].Name = ExpDistrLabel.Text;
             cf.ShowDialog();
@@ -142,6 +143,7 @@ namespace PseudoRandomGen
         {
             ChartForm cf = new ChartForm();
             cf.TBInfo = ExpDistrFNTB.Text;
+            cf.LBInfo = ExpDistrFNLB;
             cf.TempChart.Series[0] = ExpDistrFNChart.Series[0];
             cf.Text = cf.TempChart.Series[0].Name = ExpDistrFNLabel.Text;
             cf.ShowDialog();
@@ -151,6 +153,7 @@ namespace PseudoRandomGen
         {
             ChartForm cf = new ChartForm();
             cf.TBInfo = PuasDistrTB.Text;
+            cf.LBInfo = PuasDistrLB;
             cf.TempChart.Series[0] = PuasDistrChart.Series[0];
             cf.Text = cf.TempChart.Series[0].Name = PuasDistrLabel.Text;
             cf.ShowDialog();
@@ -160,6 +163,7 @@ namespace PseudoRandomGen
         {
             ChartForm cf = new ChartForm();
             cf.TBInfo = PuasDistrLimTB.Text;
+            cf.LBInfo = PuasDistrLimLB;
             cf.TempChart.Series[0] = PuasDistrLimChart.Series[0];
             cf.Text = cf.TempChart.Series[0].Name = PuasDistrLimLabel.Text;
             cf.ShowDialog();
