@@ -189,11 +189,14 @@ namespace PseudoRandomGen
 
             for (int i = 0; i < cntList.Count; i++)
             {
+                double puassCoeff = 0.0;
                 if (i < cntList.Count - 1)
                 {
-                    np = (secondList[i] - firstList[i] == 1) ? PuassonP(i) * seq.Count :
-                                                               (PuassonP(firstList[i]) + PuassonP(secondList[i])) * seq.Count;
+                    for (int k = firstList[i]; k <= secondList[i] - 1; k++)
+                        puassCoeff += PuassonP(k);
                 }
+                else puassCoeff = PuassonP(i);
+                    np = puassCoeff * seq.Count;
                 chi_sqr = Math.Pow(cntList[i] - np, 2) / np;
                 result.Add(chi_sqr);
             }
@@ -235,7 +238,7 @@ namespace PseudoRandomGen
             {
                 index = i + 1;
                 cnt_seq_i = seq.Where(x => x >= i && x < index).Count();
-                if (cnt_seq_i == 0)
+                if(cnt_seq_i == 0)
                 {
                     index++;
                     cnt_seq_i = seq.Where(x => x >= i && x < index).Count();
@@ -280,10 +283,10 @@ namespace PseudoRandomGen
             {
                 index = i + 1;
                 cnt_seq_i = seq.Where(x => x >= i && x < index).Count();
-                if (cnt_seq_i == 0)
+                while (seq.Where(x => x >= i * 1L && x < index * 1L).Count() < 10 && index <= max)
                 {
                     index++;
-                    cnt_seq_i = seq.Where(x => x >= i && x < index).Count();
+                    cnt_seq_i = seq.Where(x => x >= i * 1L && x < index * 1L).Count();
                 }
                 string formatText = index > max ? string.Format("[{0};{1})", i, "+inf") :
                                                   string.Format("[{0};{1})", i, index);
